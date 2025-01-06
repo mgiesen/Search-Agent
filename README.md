@@ -1,9 +1,7 @@
 # Search-Agent
 
-> **WARNUNG**  
+> [!WARNING]
 > Dieses Projekt ist zum aktuellen Zeitpunkt möglicherweise unvollständig oder fehlerhaft.
-
----
 
 ## Einführung
 
@@ -75,5 +73,5 @@ node main.js
 
 Der Server läuft unter `http://localhost:3000`.
 
-> **ACHTUNG**  
+> [!CAUTION]
 > Dieses Projekt ist ausschließlich für Forschungszwecke gedacht. Es liegt in der Verantwortung des Nutzers, die rechtlichen Rahmenbedingungen für den Einsatz der Technologien zu prüfen. Der Begriff "Agent" wird hier im Sinne eines autonomen Systems verwendet, das eigenständig Aufgaben ausführt und Entscheidungen trifft.
